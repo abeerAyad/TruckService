@@ -232,14 +232,12 @@ header .hero .hero-photo img {
     align-items: center;
 }
 .address  .address-content .address-details {
-    /* flex: 1;
-    margin-left: 160px; */
     margin: auto;
 }
 
 
 .address  .map img {
-    width: 600px;
+    width: 700px;
     height: 500px;
     margin-left: 10px;
 }
