@@ -233,11 +233,15 @@ header .hero .hero-photo img {
 }
 .address  .address-content .address-details {
     margin: auto;
+    margin-left: 50px;
 }
 
 
+.address  .map {
+    width: 630px;
+}
 .address  .map img {
-    width: 650px;
+    width: 100%;
     height: 100%;
 }
 
