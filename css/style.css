@@ -83,10 +83,6 @@ input {
     height: 20px;
 }
 
-/* .list .listItem .contact-content p {
-    color: #333;
-    font-size: 14px;
-} */
 
 /* Navbar */
 
@@ -227,7 +223,6 @@ header .hero .hero-photo img {
 
 }
 .address  .address-content {
-    /* display: flex; */
     align-items: center;
 }
 .address  .address-content .address-details {
