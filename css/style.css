@@ -238,8 +238,7 @@ header .hero .hero-photo img {
 
 .address  .map img {
     width: 650px;
-    height: 450px;
-    margin-left: 10px;
+    height: 100%;
 }
 
 /* Photos Style */
