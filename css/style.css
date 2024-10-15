@@ -77,6 +77,9 @@ input {
     align-items: center;
 }
 
+.list .listItem  .contact-content p {
+    font-size: 13px;
+}
 .list .listItem img {
     margin-right: 10px;
     width: 20px;
