@@ -110,6 +110,7 @@ header .hero {
     align-items: center;
     height: 70vh;
     margin-left: 200px;
+    overflow: hidden;
 }
 
 
@@ -231,14 +232,15 @@ header .hero .hero-photo img {
     align-items: center;
 }
 .address  .address-content .address-details {
-    flex: 1;
-    margin-left: 160px;
+    /* flex: 1;
+    margin-left: 160px; */
+    margin: auto;
 }
 
 
 .address  .map img {
-    width: 760px;
-    height: 540px;
+    width: 600px;
+    height: 500px;
     margin-left: 10px;
 }
 
